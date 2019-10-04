@@ -1,0 +1,53 @@
+.cardimg {
+  width: 17%;
+}
+.container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.card-footer {
+  background-color: rgb(167, 241, 148);
+}
+.text-muted {
+  color: rgb(255, 255, 255);
+}
+.formg {
+  padding: 50px;
+}
+.body {
+  background-image: url(https://static6.depositphotos.com/1043644/611/v/950/depositphotos_6117919-stock-illustration-patterns-of-funny-cats.jpg);
+}
+
+.orange {
+  background-color: orange;
+  margin: 100px 200px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+.description {
+  padding: 100px;
+  vertical-align: middle;
+  box-sizing: content-box;
+}
+.parag {
+  padding: 0 300px;
+}
+.chats {
+  color: orange;
+  font-weight: 700;
+}
+.row-cards {
+  display: flex;
+  justify-content: space-around;
+  padding: 0 200px;
+}
+.chats.Conseils {
+  padding: 50px 200px;
+}
+.card-title {
+  font-size: 20px;
+  text-align: center;
+  color: orange;
+}
